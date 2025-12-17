@@ -11,7 +11,4 @@
 - ✅ 数据导出功能
 - ✅ 无数据库依赖，使用JSON存储
 
-## 使用方法
-1. 运行程序：`python finance_tracker.py`
-2. 按菜单提示操作
-3. 数据会自动保存到 `finance_data.json`
+
